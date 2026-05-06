@@ -1,0 +1,3 @@
+Run install.sh with
+
+Chmod +X install.sh ; sudo ./install.sh
